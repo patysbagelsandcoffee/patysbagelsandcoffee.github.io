@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Forum|Oleo+Script+Swash+Caps');
+
 
 body {
-	font-family: "Arial";
+	
+	font-family: "Forum";
 	
 }
 
@@ -17,6 +20,7 @@ section {background-image: url(../images/HomepageHero.jpg);
 header{
 	background-color: #d3d3d3;
 	padding: 20px;
+	font-family: "Oleo+Script+Swash+Caps";
 }
 
 nav a{
