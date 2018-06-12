@@ -19,6 +19,11 @@ header{
 }
 nav{width: 80%; float: right;}
 
+h2{
+	font-size: 56px
+	font-color: #ffffff;
+}
+
 
 nav a{
 	color: #9A2C14;
